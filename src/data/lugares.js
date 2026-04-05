@@ -1,0 +1,22 @@
+export const lugares = [
+  { id: 1, nombre: "Tokio", pais: "Japón", lat: 35.6895, lon: 139.6917 },
+  { id: 2, nombre: "Nueva York", pais: "EE.UU.", lat: 40.7128, lon: -74.006 },
+  { id: 3, nombre: "Londres", pais: "Reino Unido", lat: 51.5074, lon: -0.1278 },
+  { id: 4, nombre: "París", pais: "Francia", lat: 48.8566, lon: 2.3522 },
+  { id: 5, nombre: "Sídney", pais: "Australia", lat: -33.8688, lon: 151.2093 },
+  { id: 6, nombre: "El Cairo", pais: "Egipto", lat: 30.0444, lon: 31.2357 },
+  { id: 7, nombre: "Río de Janeiro", pais: "Brasil", lat: -22.9068, lon: -43.1729 },
+  { id: 8, nombre: "Ciudad de México", pais: "México", lat: 19.4326, lon: -99.1332 },
+  { id: 9, nombre: "Moscú", pais: "Rusia", lat: 55.7558, lon: 37.6173 },
+  { id: 10, nombre: "Dubái", pais: "EAU", lat: 25.2048, lon: 55.2708 },
+  { id: 11, nombre: "Ciudad del Cabo", pais: "Sudáfrica", lat: -33.9249, lon: 18.4241 },
+  { id: 12, nombre: "Bangkok", pais: "Tailandia", lat: 13.7563, lon: 100.5018 },
+  { id: 13, nombre: "Estambul", pais: "Turquía", lat: 41.0082, lon: 28.9784 },
+  { id: 14, nombre: "Berlín", pais: "Alemania", lat: 52.52, lon: 13.405 },
+  { id: 15, nombre: "Seúl", pais: "Corea del Sur", lat: 37.5665, lon: 126.978 },
+  { id: 16, nombre: "Buenos Aires", pais: "Argentina", lat: -34.6037, lon: -58.3816 },
+  { id: 17, nombre: "Mumbai", pais: "India", lat: 19.076, lon: 72.8777 },
+  { id: 18, nombre: "Roma", pais: "Italia", lat: 41.9028, lon: 12.4964 },
+  { id: 19, nombre: "Toronto", pais: "Canadá", lat: 43.6532, lon: -79.3832 },
+  { id: 20, nombre: "Reykjavík", pais: "Islandia", lat: 64.1265, lon: -21.8174 }
+];

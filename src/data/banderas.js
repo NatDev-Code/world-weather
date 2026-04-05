@@ -1,0 +1,22 @@
+export const banderas = {
+  "Japón": "🇯🇵",
+  "EE.UU.": "🇺🇸",
+  "Reino Unido": "🇬🇧",
+  "Francia": "🇫🇷",
+  "Australia": "🇦🇺",
+  "Egipto": "🇪🇬",
+  "Brasil": "🇧🇷",
+  "México": "🇲🇽",
+  "Rusia": "🇷🇺",
+  "EAU": "🇦🇪",
+  "Sudáfrica": "🇿🇦",
+  "Tailandia": "🇹🇭",
+  "Turquía": "🇹🇷",
+  "Alemania": "🇩🇪",
+  "Corea del Sur": "🇰🇷",
+  "Argentina": "🇦🇷",
+  "India": "🇮🇳",
+  "Italia": "🇮🇹",
+  "Canadá": "🇨🇦",
+  "Islandia": "🇮🇸"
+};
