@@ -93,6 +93,9 @@ onMounted(() => {
 </script>
 
 <style>
+h1 {
+  color: #A0522D
+}
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
@@ -106,7 +109,7 @@ onMounted(() => {
 .card-home {
   padding: 20px;
   border-radius: 14px;
-  background: #008b8b;
+  background: #F4A460;
   text-align: center;
   text-decoration: none;
   color: #333;

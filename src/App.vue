@@ -64,7 +64,7 @@ nav {
 }
 
 nav a {
-  color: white;
+  color: #FFE4C4;
   text-decoration: none;
   margin: 0 12px;
   font-weight: 500;

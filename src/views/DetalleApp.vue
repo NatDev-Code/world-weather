@@ -30,7 +30,7 @@ import { ref, onMounted, computed } from "vue";
 import { lugares } from "../data/lugares.js";
 import { imagenes } from "../data/imagenes";
 
-const emit = defineEmits(["cambiar-fondo"])
+const emit = defineEmits(['cambiarFondo'])
 
 const route = useRoute();
 const id = route.params.id;
